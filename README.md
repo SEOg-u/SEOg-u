@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  I'm Seo Yu-jeong who dreams of becoming a front-end developer.
+  I'm Seo Yujeong who dreams of becoming a front-end developer.
   </br>
   I'll move forward enjoying the effort and learning.
 </p>
