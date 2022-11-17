@@ -65,9 +65,6 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-</br>
 
-<div style="display: flex; justify-content: space-between;align-items: center;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEOg-u&show_icons=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEOg-u&langs_count=8&theme=dracula" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=SEOg-u&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEOg-u&langs_count=8&theme=dracula" />
