@@ -64,4 +64,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEOg-u&langs_count=8&theme=dracula" />
+</br>
+
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEOg-u&langs_count=8&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEOg-u&show_icons=true&theme=onedark" />
+</div>
