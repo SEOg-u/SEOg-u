@@ -68,4 +68,3 @@ Here are some ideas to get you started:
 </br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEOg-u&langs_count=8&theme=buefy" />
-<img src="https://github-readme-stats.vercel.app/api?username=SEOg-u&show_icons=true&theme=onedark" />
