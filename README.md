@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEOg-u&show_icons=true&theme=buefy" />
+<img src="https://github-readme-stats.vercel.app/api?SEOg-u=anuraghazra&theme=dark&show_icons=true&theme=buefy" />
