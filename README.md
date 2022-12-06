@@ -63,7 +63,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-F24E1E?style=flat-square&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
 </div>
-
-</br>
-
-<img src="https://github-readme-stats.vercel.app/api?SEOg-u=anuraghazra&theme=dark&show_icons=true?theme=buefy" />
