@@ -64,4 +64,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
 </div>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=SEOg-u25&layout=compact&theme=gruvbox)
+</br>
