@@ -66,4 +66,4 @@ I'm Seo Gyeoul who dreams of becoming a full-stack developer.
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOg-u)](https://github.com/SEOg-u/github-readme-stats)
