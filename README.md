@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I'm Seo Gyeoul who dreams of becoming a full-stack developer.
 <p>
   프론트엔드 개발자를 꿈꾸며 공부하고 있는 서유정입니다.
   </br>
@@ -65,3 +65,5 @@ Here are some ideas to get you started:
 </div>
 
 </br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
