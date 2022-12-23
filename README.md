@@ -52,6 +52,7 @@ I'm Seo Gyeoul who dreams of becoming a full-stack developer.
 
 <h3>📚 Learning</h3>
 <div style="display: flex;">
+  <img src="https://img.shields.io/badge/React Native-00599C?style=flat-square&logo=Create React App&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
 </div>
