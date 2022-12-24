@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Seo Gyeoul who dreams of becoming a full-stack developer.
+I'm Seo YuJeong who dreams of becoming a full-stack developer.
 <p>
   프론트엔드 개발자를 꿈꾸며 공부하고 있는 서유정입니다.
   </br>
