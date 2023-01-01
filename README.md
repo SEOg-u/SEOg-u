@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOg-u)](https://github.com/SEOg-u/github-readme-stats)
+
